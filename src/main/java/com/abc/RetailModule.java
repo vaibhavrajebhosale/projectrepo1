@@ -29,5 +29,6 @@ public class RetailModule {
 	private String product_name;
 	private String product_description;
 	private int price;
+	private int priceVB;
 	
 }
